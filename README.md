@@ -24,6 +24,9 @@ I am a passionate frontend developer currently working with React.js to build in
 - **Django:** Diving into the backend world to understand the full stack development process.
 - **Data Structures and Algorithms (DSA):** Strengthening my problem-solving skills and improving my understanding of core computer science concepts.
 
+<b>🔥 Github Streaks</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mahato0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+
 ## 🌟 Interests
 
 - **Web Development:** Constantly exploring new frameworks and tools to enhance web development efficiency and performance.
@@ -31,9 +34,6 @@ I am a passionate frontend developer currently working with React.js to build in
 - **Machine Learning & AI:** Keen interest in the fields of AI and machine learning and looking forward to integrating them into web development.
 - **Blockchain Technology:** Exploring the potential of blockchain in creating decentralized applications (dApps).
 
-
-<b>🔥 Github Streaks</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-mahato0&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
 
 ## 📫 How to Reach Me
 
