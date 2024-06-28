@@ -1,4 +1,4 @@
-# Hello WOrld, I'm Abhishek Mahato 👋
+# Hello World, I'm Abhishek Mahato 👋
 
 ## 🚀 About Me
 
