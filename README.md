@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate frontend developer currently working with React.js to build interactive and dynamic web applications.
+I am a passionate full-stack/AI/ML developer currently working with React.js to build interactive and dynamic web applications.
 
 <b> 👨‍💻 Tech Stack: </b>
 <div align='center'><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
