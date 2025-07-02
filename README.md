@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a passionate full-stack/AI/ML developer currently working with React.js to build interactive and dynamic web applications.
+I am a passionate full-stack developer with a strong foundation in AI/ML. I specialize in building interactive and scalable web applications using React.js on the frontend and Node.js on the backend. My work combines modern full-stack technologies with machine learning techniques to create intelligent and user-centric solutions.
 
 <b> 👨‍💻 Tech Stack: </b>
 <div align='center'><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
